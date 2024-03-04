@@ -145,7 +145,7 @@ fido.bark()
 # Woof!
 ```
 
-If you execute this code in the terminal by running `python lib/dog.py`, you
+If you execute this code in the terminal by running `python3 lib/dog.py`, you
 should see "Woof!" written out.
 
 By defining `bark()` within the `Dog` class, `bark` becomes a method of all
